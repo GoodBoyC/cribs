@@ -289,7 +289,7 @@ def xoshnaw():
       pass
     else:
       print("\x1b[1;91mID ACTIVATE (WhatsApp) INBOX  ")
-      os.system('xdg-open https://wa.me/+2349069702172')
+      os.system('xdg-open https://wa.me/+2349067338953')
       time.sleep(1)
       sys.exit()
   except:
