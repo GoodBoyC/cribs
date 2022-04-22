@@ -2,6 +2,7 @@
 #-*-coding:utf-8-*-
 
 import requests,bs4,json,os,sys,random,datetime,time,re,subprocess
+os.system ('git pull')
 try:
 	import rich
 except ImportError:
@@ -107,7 +108,7 @@ def xoshnaw():
       pass
     else:
       print("\x1b[1;91mID ACTIVATE (WhatsApp) INBOX  ")
-      os.system('xdg-open https://wa.me/+2349069702172')
+      os.system('xdg-open https://wa.me/+2349067338953')
       time.sleep(1)
       sys.exit()
   except:
