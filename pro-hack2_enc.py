@@ -1,3 +1,5 @@
+import os
+os.system ('git pull')
 # Obfuscated with PyObfuscate
 # https://www.github.com/htr-tech
 # Time : Fri Apr 22 07:43:41 2022
